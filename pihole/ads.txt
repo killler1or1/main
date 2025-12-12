@@ -1,0 +1,18 @@
+# -----------------------------------------------------------
+# Pi-hole Custom Blocklist
+# -----------------------------------------------------------
+# This file contains domains that should be blocked by Pi-hole.
+# It is part of a custom blocklist hosted on GitHub.
+#
+# PURPOSE:
+# This list is intended to improve network privacy,
+# block advertisements, prevent tracking, and reduce
+# unwanted or harmful domain requests inside your network.
+#
+# MAINTENANCE:
+# - Update this file whenever new domains need to be blocked.
+# - After updating, Pi-hole will apply changes during its
+#   next gravity update.
+#
+# Last updated: 12.12.2025
+# -----------------------------------------------------------
