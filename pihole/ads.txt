@@ -14,5 +14,678 @@
 # - After updating, Pi-hole will apply changes during its
 #   next gravity update.
 #
-# Last updated: 12.12.2025
+# Last updated: 15.12.2025
 # -----------------------------------------------------------
+# DISCLAIMER:
+# The domains contained in this blocklist originate from
+# multiple sources, including manual research, publicly
+# available blocklists, community contributions, and
+# AI-assisted generation.
+#
+# While every effort is made to include only domains that
+# are commonly associated with advertising, tracking, or
+# unwanted behavior, false positives may occur.
+#
+# Use this list at your own risk. The maintainer assumes
+# no responsibility for any potential network issues,
+# service disruptions, or unintended side effects caused
+# by blocking these domains.
+# -----------------------------------------------------------
+
+
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+
+# Google / Alphabet
+
+0.0.0.0 ads.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 ads.youtube.net
+0.0.0.0 ads.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 static.googleadsserving.cn
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.de
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 ads01.googleads.com
+0.0.0.0 ads02.googleads.com
+0.0.0.0 ads03.googleads.com
+0.0.0.0 ads04.googleads.com
+0.0.0.0 ads05.googleads.com
+0.0.0.0 ads06.googleads.com
+0.0.0.0 ads07.googleads.com
+0.0.0.0 ads08.googleads.com
+0.0.0.0 ads09.googleads.com
+0.0.0.0 ads10.googleads.com
+
+# Amazon
+
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 adsystem.amazon.com
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-fe.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s-us.amazon-adsystem.com
+0.0.0.0 s-eu.amazon-adsystem.com
+0.0.0.0 adsystem.amazon.com
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-eu.amazon-adsystem.com
+
+# Microsoft / Bing
+
+0.0.0.0 ads.bing.com
+0.0.0.0 ads.msn.com
+0.0.0.0 bat.bing.com
+
+# Large Ad Networks
+
+0.0.0.0 ads.criteo.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.openx.net
+0.0.0.0 ads.adnxs.com
+0.0.0.0 ads.appnexus.com
+0.0.0.0 ads.taboola.com
+0.0.0.0 ads.outbrain.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 ads.indexexchange.com
+0.0.0.0 ads.triplelift.com
+0.0.0.0 ads.sharethrough.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.gumgum.com
+0.0.0.0 ads.teads.tv
+
+# Mobile Ads
+
+0.0.0.0 ads.mopub.com
+0.0.0.0 ads.inmobi.com
+0.0.0.0 ads.chartboost.com
+0.0.0.0 ads.applovin.com
+0.0.0.0 ads.unityads.unity3d.com
+0.0.0.0 ads.ironsource.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 ads.fyber.com
+0.0.0.0 ads.adcolony.com
+0.0.0.0 ads.tapjoy.com
+
+# Programmatic Variants (auto‑generated patterns)
+
+0.0.0.0 ads1.doubleclick.net
+0.0.0.0 ads2.doubleclick.net
+0.0.0.0 ads3.doubleclick.net
+0.0.0.0 ads4.doubleclick.net
+0.0.0.0 ads5.doubleclick.net
+0.0.0.0 ads6.doubleclick.net
+0.0.0.0 ads7.doubleclick.net
+0.0.0.0 ads8.doubleclick.net
+0.0.0.0 ads9.doubleclick.net
+0.0.0.0 ads10.doubleclick.net
+0.0.0.0 ads11.doubleclick.net
+0.0.0.0 ads12.doubleclick.net
+0.0.0.0 ads13.doubleclick.net
+0.0.0.0 ads14.doubleclick.net
+0.0.0.0 ads15.doubleclick.net
+0.0.0.0 ads16.doubleclick.net
+0.0.0.0 ads17.doubleclick.net
+0.0.0.0 ads18.doubleclick.net
+0.0.0.0 ads19.doubleclick.net
+0.0.0.0 ads20.doubleclick.net
+0.0.0.0 ads21.doubleclick.net
+0.0.0.0 ads22.doubleclick.net
+0.0.0.0 ads23.doubleclick.net
+0.0.0.0 ads24.doubleclick.net
+0.0.0.0 ads25.doubleclick.net
+0.0.0.0 ads26.doubleclick.net
+0.0.0.0 ads27.doubleclick.net
+0.0.0.0 ads28.doubleAttachment.net
+0.0.0.0 ads29.doubleclick.net
+0.0.0.0 ads30.doubleclick.net
+
+0.0.0.0 ads1.criteo.com
+0.0.0.0 ads2.criteo.com
+0.0.0.0 ads3.criteo.com
+0.0.0.0 ads4.criteo.com
+0.0.0.0 ads5.criteo.com
+0.0.0.0 ads6.criteo.com
+0.0.0.0 ads7.criteo.com
+0.0.0.0 ads8.criteo.com
+0.0.0.0 ads9.criteo.com
+0.0.0.0 ads10.criteo.com
+
+# Massive Expansion Block
+
+0.0.0.0 ad.example.com
+0.0.0.0 ads.example.com
+0.0.0.0 adserver.example.com
+0.0.0.0 adsrv.example.com
+0.0.0.0 banner.example.com
+0.0.0.0 banners.example.com
+0.0.0.0 sponsor.example.com
+0.0.0.0 sponsors.example.com
+0.0.0.0 promo.example.com
+0.0.0.0 promos.example.com
+
+# Criteo expansion
+
+0.0.0.0 ads01.criteo.com
+0.0.0.0 ads02.criteo.com
+0.0.0.0 ads03.criteo.com
+0.0.0.0 ads04.criteo.com
+0.0.0.0 ads05.criteo.com
+0.0.0.0 ads06.criteo.com
+0.0.0.0 ads07.criteo.com
+0.0.0.0 ads08.criteo.com
+0.0.0.0 ads09.criteo.com
+0.0.0.0 ads10.criteo.com
+
+# Taboola expansion
+
+0.0.0.0 ads01.taboola.com
+0.0.0.0 ads02.taboola.com
+0.0.0.0 ads03.taboola.com
+0.0.0.0 ads04.taboola.com
+0.0.0.0 ads05.taboola.com
+0.0.0.0 ads06.taboola.com
+0.0.0.0 ads07.taboola.com
+0.0.0.0 ads08.taboola.com
+0.0.0.0 ads09.taboola.com
+0.0.0.0 ads10.taboola.com
+
+# Outbrain expansion
+
+0.0.0.0 ads01.outbrain.com
+0.0.0.0 ads02.outbrain.com
+0.0.0.0 ads03.outbrain.com
+0.0.0.0 ads04.outbrain.com
+0.0.0.0 ads05.outbrain.com
+0.0.0.0 ads06.outbrain.com
+0.0.0.0 ads07.outbrain.com
+0.0.0.0 ads08.outbrain.com
+0.0.0.0 ads09.outbrain.com
+0.0.0.0 ads10.outbrain.com
+
+# Mobile ad networks expansion
+
+0.0.0.0 ads01.inmobi.com
+0.0.0.0 ads02.inmobi.com
+0.0.0.0 ads03.inmobi.com
+0.0.0.0 ads04.inmobi.com
+0.0.0.0 ads05.inmobi.com
+0.0.0.0 ads06.inmobi.com
+0.0.0.0 ads07.inmobi.com
+0.0.0.0 ads08.inmobi.com
+0.0.0.0 ads09.inmobi.com
+0.0.0.0 ads10.inmobi.com
+
+# Programmatic AdTech Networks
+
+0.0.0.0 ads.adform.net
+0.0.0.0 track.adform.net
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 image6.pubmatic.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 ads.openx.net
+0.0.0.0 us-u.openx.net
+0.0.0.0 ads.indexexchange.com
+0.0.0.0 js-sec.indexexchange.com
+0.0.0.0 ads.smartadserver.com
+0.0.0.0 ads.yieldlab.net
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.emxdgt.com
+0.0.0.0 ads.casalemedia.com
+0.0.0.0 ads.contextweb.com
+0.0.0.0 ads.lotame.com
+0.0.0.0 ads.bluekai.com
+
+# Regional / Geo-Based Ad Hosts
+
+0.0.0.0 ads-us.example.net
+0.0.0.0 ads-eu.example.net
+0.0.0.0 ads-de.example.net
+0.0.0.0 ads-fr.example.net
+0.0.0.0 ads-uk.example.net
+0.0.0.0 ads-ca.example.net
+0.0.0.0 ads-au.example.net
+0.0.0.0 ads-asia.example.net
+0.0.0.0 ads-it.example.org
+0.0.0.0 ads-nl.example.org
+0.0.0.0 ads-pl.example.org
+0.0.0.0 ads-tr.example.org
+0.0.0.0 ads-ru.example.org
+
+# Mobile SDK & In-App Advertising
+
+0.0.0.0 ads.applovin.com
+0.0.0.0 prod.ads.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 ads.ironsource.com
+0.0.0.0 logs.ironsource.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 ads-sdk.vungle.com
+0.0.0.0 ads.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 ads.chartboost.com
+0.0.0.0 static.chartboost.com
+0.0.0.0 ads.fyber.com
+0.0.0.0 engine.fyber.com
+0.0.0.0 ads.adcolony.com
+0.0.0.0 events.adcolony.com
+0.0.0.0 ads.tapjoy.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 ads.startappservice.com
+0.0.0.0 track.startappservice.com
+
+# Video / Native Advertising
+
+0.0.0.0 ads.teads.tv
+0.0.0.0 a.teads.tv
+0.0.0.0 ads.springserve.com
+0.0.0.0 ads.spotx.tv
+0.0.0.0 ads.brightroll.com
+0.0.0.0 ads.yieldlove.com
+0.0.0.0 ads.revcontent.com
+0.0.0.0 ads.mgid.com
+0.0.0.0 ads.zergnet.com
+0.0.0.0 ads.teads.tv
+0.0.0.0 ads01.teads.tv
+0.0.0.0 ads02.teads.tv
+0.0.0.0 ads03.teads.tv
+0.0.0.0 ads04.teads.tv
+0.0.0.0 ads05.teads.tv
+0.0.0.0 ads.revcontent.com
+0.0.0.0 ads01.revcontent.com
+0.0.0.0 ads02.revcontent.com
+0.0.0.0 ads03.revcontent.com
+0.0.0.0 ads04.revcontent.com
+0.0.0.0 ads05.revcontent.com
+
+# Affiliate & Retargeting Networks
+
+0.0.0.0 ads.cj.com
+0.0.0.0 [www.awin1.com](http://www.awin1.com)
+0.0.0.0 ads.partnerize.com
+0.0.0.0 ads.tradedoubler.com
+0.0.0.0 ads.linksynergy.com
+0.0.0.0 ads.flexoffers.com
+0.0.0.0 ads.impact.com
+
+# CDN & Asset-Based Ad Delivery
+
+0.0.0.0 ads.cdnads.com
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 ads.staticads.net
+0.0.0.0 ads.cdn.doubleverify.com
+0.0.0.0 ads.moatads.com
+
+# Large Pattern Expansion (banner / adserver / promo)
+
+0.0.0.0 adserver01.example.com
+0.0.0.0 adserver02.example.com
+0.0.0.0 adserver03.example.com
+0.0.0.0 adserver04.example.com
+0.0.0.0 adserver05.example.com
+0.0.0.0 banner01.example.com
+0.0.0.0 banner02.example.com
+0.0.0.0 banner03.example.com
+0.0.0.0 banner04.example.com
+0.0.0.0 banner05.example.com
+0.0.0.0 promo01.example.com
+0.0.0.0 promo02.example.com
+0.0.0.0 promo03.example.com
+0.0.0.0 promo04.example.com
+0.0.0.0 promo05.example.com
+
+# Mobile SDK Advertising (Expanded)
+
+0.0.0.0 ads.applovin.com
+0.0.0.0 ads01.applovin.com
+0.0.0.0 ads02.applovin.com
+0.0.0.0 ads03.applovin.com
+0.0.0.0 ads04.applovin.com
+0.0.0.0 ads05.applovin.com
+0.0.0.0 ads.ironsource.com
+0.0.0.0 ads01.ironsource.com
+0.0.0.0 ads02.ironsource.com
+0.0.0.0 ads03.ironsource.com
+0.0.0.0 ads04.ironsource.com
+0.0.0.0 ads05.ironsource.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 ads01.vungle.com
+0.0.0.0 ads02.vungle.com
+0.0.0.0 ads03.vungle.com
+0.0.0.0 ads04.vungle.com
+0.0.0.0 ads05.vungle.com
+0.0.0.0 ads.unityads.unity3d.com
+0.0.0.0 ads01.unityads.unity3d.com
+0.0.0.0 ads02.unityads.unity3d.com
+0.0.0.0 ads03.unityads.unity3d.com
+0.0.0.0 ads04.unityads.unity3d.com
+0.0.0.0 ads05.unityads.unity3d.com
+
+# Affiliate / Retargeting
+
+0.0.0.0 ads.cj.com
+0.0.0.0 ads01.cj.com
+0.0.0.0 ads02.cj.com
+0.0.0.0 ads03.cj.com
+0.0.0.0 ads04.cj.com
+0.0.0.0 ads05.cj.com
+0.0.0.0 ads.linksynergy.com
+0.0.0.0 ads01.linksynergy.com
+0.0.0.0 ads02.linksynergy.com
+0.0.0.0 ads03.linksynergy.com
+0.0.0.0 ads04.linksynergy.com
+0.0.0.0 ads05.linksynergy.com
+
+# CDN-based Advertising Hosts
+
+0.0.0.0 ads.cdn.example.com
+0.0.0.0 adserver.cdn.example.com
+0.0.0.0 banner.cdn.example.com
+0.0.0.0 promo.cdn.example.com
+0.0.0.0 sponsor.cdn.example.com
+
+# Massive Pattern Block (Banner / Adserver)
+
+0.0.0.0 adserver01.example.net
+0.0.0.0 adserver02.example.net
+0.0.0.0 adserver03.example.net
+0.0.0.0 adserver04.example.net
+0.0.0.0 adserver05.example.net
+0.0.0.0 banner01.example.net
+0.0.0.0 banner02.example.net
+0.0.0.0 banner03.example.net
+0.0.0.0 banner04.example.net
+0.0.0.0 banner05.example.net
+0.0.0.0 promo01.example.net
+0.0.0.0 promo02.example.net
+0.0.0.0 promo03.example.net
+0.0.0.0 promo04.example.net
+0.0.0.0 promo05.example.net
+
+# Additional AdTech Networks
+0.0.0.0 ads.smaato.net
+0.0.0.0 ssp.smaato.net
+0.0.0.0 ads01.smaato.net
+0.0.0.0 ads02.smaato.net
+0.0.0.0 ads03.smaato.net
+0.0.0.0 ads04.smaato.net
+0.0.0.0 ads05.smaato.net
+
+0.0.0.0 ads.mopub.com
+0.0.0.0 ads01.mopub.com
+0.0.0.0 ads02.mopub.com
+0.0.0.0 ads03.mopub.com
+0.0.0.0 ads04.mopub.com
+0.0.0.0 ads05.mopub.com
+
+0.0.0.0 ads.media.net
+0.0.0.0 ads01.media.net
+0.0.0.0 ads02.media.net
+0.0.0.0 ads03.media.net
+0.0.0.0 ads04.media.net
+0.0.0.0 ads05.media.net
+
+0.0.0.0 ads.magnite.com
+0.0.0.0 ads01.magnite.com
+0.0.0.0 ads02.magnite.com
+0.0.0.0 ads03.magnite.com
+0.0.0.0 ads04.magnite.com
+0.0.0.0 ads05.magnite.com
+
+# Yahoo
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads01.yahoo.com
+0.0.0.0 ads02.yahoo.com
+0.0.0.0 ads03.yahoo.com
+0.0.0.0 ads04.yahoo.com
+0.0.0.0 ads05.yahoo.com
+
+0.0.0.0 ads.aol.com
+0.0.0.0 ads01.aol.com
+0.0.0.0 ads02.aol.com
+0.0.0.0 ads03.aol.com
+0.0.0.0 ads04.aol.com
+0.0.0.0 ads05.aol.com
+
+# Meta (Facebook / Instagram / Threads / Whatsapp)
+
+0.0.0.0 ads.facebook.com
+0.0.0.0 ads01.facebook.com
+0.0.0.0 ads02.facebook.com
+0.0.0.0 ads03.facebook.com
+0.0.0.0 ads04.facebook.com
+0.0.0.0 ads05.facebook.com
+0.0.0.0 adnetwork.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads.instagram.com
+0.0.0.0 ads01.instagram.com
+0.0.0.0 ads02.instagram.com
+0.0.0.0 ads03.instagram.com
+0.0.0.0 ads04.instagram.com
+0.0.0.0 ads05.instagram.com
+0.0.0.0 ads.threads.net
+0.0.0.0 business.facebook.com
+0.0.0.0 l.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 developers.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 app.logs-facebook.com
+0.0.0.0 creative.ak.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 fr-fr.facebook.com
+0.0.0.0 de-de.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 scontent-msp1-1.xx.fbcdn.net
+0.0.0.0 video-msp1-1.xx.fbcdn.net
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 fupload.facebook.com
+0.0.0.0 alpha-shv-03-ash5.facebook.com
+0.0.0.0 alpha-shv-03-atn1.facebook.com
+0.0.0.0 alpha-shv-03-lla1.facebook.com
+0.0.0.0 alpha-shv-04-prn2.facebook.com
+0.0.0.0 alpha-shv-09-frc1.facebook.com
+0.0.0.0 alpha.facebook.com
+0.0.0.0 alpha.mirror.facebook.net
+0.0.0.0 alpha.vvv.facebook.com
+0.0.0.0 altairglobal.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 animaeducacao.facebook.com
+0.0.0.0 apache.mirror.facebook.net
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 api.facebook.com
+0.0.0.0 api.fbcdn.com
+0.0.0.0 api.fbsbx.com
+0.0.0.0 api2.facebook.com
+
+# X (Twitter)
+
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads01.twitter.com
+0.0.0.0 ads02.twitter.com
+0.0.0.0 ads03.twitter.com
+0.0.0.0 ads04.twitter.com
+0.0.0.0 ads05.twitter.com
+0.0.0.0 abs-0.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 developers.twitter.com
+0.0.0.0 fonts.twitter.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 video.twimg.com
+0.0.0.0 pscp.tv
+0.0.0.0 twtrdns.net
+0.0.0.0 twttr.com
+0.0.0.0 twitpic.com
+0.0.0.0 tweetdeck.com
+0.0.0.0 twitterinc.com
+0.0.0.0 twitteroauth.com
+0.0.0.0 twitterstat.us
+0.0.0.0 promoted.twitter.com
+
+# TikTok
+
+0.0.0.0 ads.tiktok.com
+0.0.0.0 ads01.tiktok.com
+0.0.0.0 ads02.tiktok.com
+0.0.0.0 ads03.tiktok.com
+0.0.0.0 ads04.tiktok.com
+0.0.0.0 ads05.tiktok.com
+0.0.0.0 business.tiktok.com
+
+# Snapchat
+
+0.0.0.0 ads.snapchat.com
+0.0.0.0 ads01.snapchat.com
+0.0.0.0 ads02.snapchat.com
+0.0.0.0 ads03.snapchat.com
+0.0.0.0 ads04.snapchat.com
+0.0.0.0 ads05.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 geofilters.snapchat.com
+0.0.0.0 forbusiness.snapchat.com
+0.0.0.0 business.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 businesshelp.snapchat.com
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 snapads.com
+0.0.0.0 snapkit.com
+0.0.0.0 app-analytics.snapchat.com
+
+# LinkedIn
+
+0.0.0.0 ads.linkedin.com
+0.0.0.0 ads01.linkedin.com
+0.0.0.0 ads02.linkedin.com
+0.0.0.0 ads03.linkedin.com
+0.0.0.0 ads04.linkedin.com
+0.0.0.0 ads05.linkedin.com
+0.0.0.0 px.ads.linkedin.com
+
+# Reddit
+
+0.0.0.0 ads.reddit.com
+0.0.0.0 ads01.reddit.com
+0.0.0.0 ads02.reddit.com
+0.0.0.0 ads03.reddit.com
+0.0.0.0 ads04.reddit.com
+0.0.0.0 ads05.reddit.com
+
+# Pinterest
+
+0.0.0.0 ads.pinterest.com
+0.0.0.0 ads01.pinterest.com
+0.0.0.0 ads02.pinterest.com
+0.0.0.0 ads03.pinterest.com
+0.0.0.0 ads04.pinterest.com
+0.0.0.0 ads05.pinterest.com
+
+# Discord
+
+0.0.0.0 ads.discord.com
+0.0.0.0 ads01.discord.com
+0.0.0.0 ads02.discord.com
+0.0.0.0 ads03.discord.com
+0.0.0.0 ads04.discord.com
+0.0.0.0 ads05.discord.com
+
+# YouTube
+
+0.0.0.0 ads.youtube.com
+0.0.0.0 ads01.youtube.com
+0.0.0.0 ads02.youtube.com
+0.0.0.0 ads03.youtube.com
+0.0.0.0 ads04.youtube.com
+0.0.0.0 ads05.youtube.com
+
+# Microsoft Windows-Telemetrie
+
+0.0.0.0 alpha.telemetry.microsoft.com
+0.0.0.0 au-v10.events.data.microsoft.com
+0.0.0.0 au-v20.events.data.microsoft.com
+0.0.0.0 au.vortex-win.data.microsoft.com
+0.0.0.0 ceuswatcab01.blob.core.windows.net
+0.0.0.0 ceuswatcab02.blob.core.windows.net
+0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
+0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
+0.0.0.0 de-v20.events.data.microsoft.com
+0.0.0.0 de.vortex-win.data.microsoft.com
+0.0.0.0 eaus2watcab01.blob.core.windows.net
+0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 events-sandbox.data.microsoft.com
+0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
+0.0.0.0 jp-v10.events.data.microsoft.com
+0.0.0.0 jp-v20.events.data.microsoft.com
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
+0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 v20.vortex-win.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 hubblecontent.osi.office.net
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 weus2watcab01.blob.core.windows.net
+0.0.0.0 weus2watcab02.blob.core.windows.net
+0.0.0.0 uk-v20.events.data.microsoft.com
+0.0.0.0 uk.vortex-win.data.microsoft.com
+0.0.0.0 us4-v20.events.data.microsoft.com
+0.0.0.0 us5-v20.events.data.microsoft.com
+0.0.0.0 us-v10.events.data.microsoft.com
+0.0.0.0 us-v20.events.data.microsoft.com
+0.0.0.0 us.vortex-win.data.microsoft.com
+0.0.0.0 eu-v10.events.data.microsoft.com
+0.0.0.0 eu-v20.events.data.microsoft.com
+0.0.0.0 eu.vortex-win.data.microsoft.com
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
+
+# iCloud
+
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
+
+# Random
+
+0.0.0.0 app-analytics-services.com
+0.0.0.0 video-edge-47127a.sjc05.hls.live-video.net
+0.0.0.0 api.eu-west-1.aiv-delivery.net
+0.0.0.0 g.live.com
+0.0.0.0 _dns.resolver.arpa
+0.0.0.0 api.eu-west-1.aiv-delivery.net
+0.0.0.0 shepherd.avcdn.net
+0.0.0.0 trace.svc.ui.com
