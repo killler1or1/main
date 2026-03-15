@@ -1,0 +1,72 @@
+# -----------------------------------------------------------
+# Pi-hole Custom Blocklist: adult-subscription-platforms
+# -----------------------------------------------------------
+# PURPOSE:
+# Blocks subscription-based adult content platforms and creator sites.
+# Intended to prevent access to explicit content via these services.
+#
+# MAINTENANCE:
+# Update periodically when new domains or platforms are discovered.
+#
+# Last updated: 15.03.2026
+# -----------------------------------------------------------
+# DISCLAIMER:
+# Domains originate from public research, manual investigation,
+# community contributions, and AI-assisted generation.
+# False positives may occur.
+#
+# Use this list at your own risk.
+# -----------------------------------------------------------
+
+# Main Adult Subscription Platforms
+
+0.0.0.0 onlyfans.com
+0.0.0.0 bestfans.com
+0.0.0.0 fansly.com
+0.0.0.0 manyvids.com
+
+# Alternative Platforms / Regional Sites
+
+0.0.0.0 avmoo.com
+0.0.0.0 fanvue.com
+0.0.0.0 loyalfans.com
+0.0.0.0 justfor.fans
+0.0.0.0 flahub.com
+0.0.0.0 privates.com
+0.0.0.0 fansly.me
+0.0.0.0 bestfans.me
+0.0.0.0 onlyfans.net
+
+# Live Streaming & Cam Subscription Platforms
+
+0.0.0.0 camsoda.com
+0.0.0.0 chaturbate.com
+0.0.0.0 bongacams.com
+0.0.0.0 manyvidslive.com
+0.0.0.0 fanslylive.com
+0.0.0.0 onlyfans.live
+0.0.0.0 stripchat.com
+0.0.0.0 cam4.com
+0.0.0.0 livejasmin.com
+0.0.0.0 streamate.com
+0.0.0.0 myfreecams.com
+0.0.0.0 imlive.com
+0.0.0.0 flirt4free.com
+
+# Misc / Emerging Platforms
+
+0.0.0.0 sexierhub.com
+0.0.0.0 adultcreator.com
+0.0.0.0 fanplay.com
+0.0.0.0 myadultfans.com
+0.0.0.0 adultstarhub.com
+0.0.0.0 eroticfans.com
+0.0.0.0 adultonlyfans.com
+0.0.0.0 fanshub.com
+0.0.0.0 adultcreatorshub.com
+0.0.0.0 adultstarsnetwork.com
+0.0.0.0 onlyfanshub.com
+0.0.0.0 bestfanshub.com
+0.0.0.0 fanslyhub.com
+0.0.0.0 adultcontenthub.com
+0.0.0.0 adultcreatorsnetwork.com
