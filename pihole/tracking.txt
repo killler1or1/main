@@ -1,0 +1,104 @@
+# -----------------------------------------------------------
+# Pi-hole Custom Blocklist: tracking
+# -----------------------------------------------------------
+# This file contains domains that should be blocked by Pi-hole.
+# It is part of a custom blocklist hosted on GitHub.
+#
+# PURPOSE:
+# This list is intended to improve network privacy,
+# block advertisements, prevent tracking, and reduce
+# unwanted or harmful domain requests inside your network.
+#
+# MAINTENANCE:
+# - Update this file whenever new domains need to be blocked.
+# - After updating, Pi-hole will apply changes during its
+#   next gravity update.
+#
+# Last updated: 15.03.2026
+# -----------------------------------------------------------
+# DISCLAIMER:
+# The domains contained in this blocklist originate from
+# multiple sources, including manual research, publicly
+# available blocklists, community contributions, and
+# AI-assisted generation.
+#
+# While every effort is made to include only domains that
+# are commonly associated with advertising, tracking, or
+# unwanted behavior, false positives may occur.
+#
+# Use this list at your own risk. The maintainer assumes
+# no responsibility for any potential network issues,
+# service disruptions, or unintended side effects caused
+# by blocking these domains.
+# -----------------------------------------------------------
+
+# Web (additional domains)
+0.0.0.0 googlesyndication.com
+0.0.0.0 doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 criteo.com
+0.0.0.0 mathtag.com
+0.0.0.0 outbrain.com
+0.0.0.0 taboola.com
+0.0.0.0 admob.com
+0.0.0.0 adroll.com
+0.0.0.0 mediaplex.com
+0.0.0.0 yieldmo.com
+
+# Mobile (additional domains)
+0.0.0.0 facebookmobileads.com
+0.0.0.0 applovin.com
+0.0.0.0 mopub.com
+0.0.0.0 ironSource.com
+0.0.0.0 vungle.com
+0.0.0.0 chartboost.com
+0.0.0.0 flurry.com
+0.0.0.0 appsflyer.com
+0.0.0.0 adjust.com
+0.0.0.0 branch.io
+
+# IoT (additional domains)
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 diagnostics.outlook.com
+0.0.0.0 deviceservices.azure.com
+0.0.0.0 iot-amazon.com
+0.0.0.0 telemetry.office.com
+0.0.0.0 telemetry.adobe.com
+0.0.0.0 logs.crashlytics.com
+0.0.0.0 usage.met.no
+
+# Social Media (additional domains)
+0.0.0.0 connect.facebook.net
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 api.twitter.com
+0.0.0.0 twitter.com
+0.0.0.0 t.co
+0.0.0.0 analytics.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 snapads.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 snap.licdn.com
+0.0.0.0 px.ads.linkedin.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 tr.pinterest.com
+0.0.0.0 analytics.discordapp.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 s.youtube.com
+0.0.0.0 analytics.reddit.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 api.snapchat.com
+0.0.0.0 analytics.snapchat.com
