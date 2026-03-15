@@ -103,7 +103,17 @@
 
 # Cam Platforms
 
+0.0.0.0 18freeporn.com
+0.0.0.0 2kporn.com
+0.0.0.0 4asianporn.com
+0.0.0.0 4pornxxx.com
+0.0.0.0 4xporn.com
 0.0.0.0 amateur.tv
+0.0.0.0 bangbros.com
+0.0.0.0 bangbrosclips.com
+0.0.0.0 bangbroshd.com
+0.0.0.0 bangbrosnetwork.com
+0.0.0.0 bangbrosnetworkhd.com
 0.0.0.0 bongacams.com
 0.0.0.0 cam2cam.com
 0.0.0.0 cam4.com
@@ -118,23 +128,26 @@
 0.0.0.0 camfun.com
 0.0.0.0 camgirlslive.com
 0.0.0.0 camgirlsnetwork.com
+0.0.0.0 camhubpremium.com
 0.0.0.0 camify.com
 0.0.0.0 camplace.com
-0.0.0.0 camsplace.com
 0.0.0.0 camrabbit.com
 0.0.0.0 camshow.com
-0.0.0.0 cams4fun.com
 0.0.0.0 cams.com
-0.0.0.0 camscout.com
+0.0.0.0 cams4fun.com
 0.0.0.0 camslive.com
+0.0.0.0 camsoda.com
+0.0.0.0 camsodapremium.com
+0.0.0.0 camsplace.com
 0.0.0.0 camsurf.com
 0.0.0.0 camtaboo.com
-0.0.0.0 camtopía.com
+0.0.0.0 camtopia.com
 0.0.0.0 camversity.com
 0.0.0.0 camwhores.tv
 0.0.0.0 camx.tv
 0.0.0.0 camzap.com
 0.0.0.0 chaturbate.com
+0.0.0.0 chaturbatepremium.com
 0.0.0.0 eroticcams.com
 0.0.0.0 flirt4free.com
 0.0.0.0 flirtcams.com
@@ -144,6 +157,8 @@
 0.0.0.0 livecamgirls.com
 0.0.0.0 livecams.tv
 0.0.0.0 livecamsnetwork.com
+0.0.0.0 livejasmin.com
+0.0.0.0 livejasminpremium.com
 0.0.0.0 livewebcams.com
 0.0.0.0 mycams.com
 0.0.0.0 myfreecams.com
@@ -153,11 +168,13 @@
 0.0.0.0 stripcams.com
 0.0.0.0 stripchat.com
 0.0.0.0 streamate.com
+0.0.0.0 streamatepremium.com
 0.0.0.0 streamcams.com
 0.0.0.0 webcams.com
 0.0.0.0 webcamgalore.com
 0.0.0.0 webcamsex.com
 0.0.0.0 xlovecam.com
+
 
 
 # Adult Networks / Studios
@@ -204,8 +221,8 @@
 0.0.0.0 milfaholic.com
 0.0.0.0 mofos.com
 0.0.0.0 mofosclips.com
-0.0.0.0 mofosnetwork.com
 0.0.0.0 mofoshd.com
+0.0.0.0 mofosnetwork.com
 0.0.0.0 motherless.com
 0.0.0.0 naughtyamerica.com
 0.0.0.0 naughtyamerica.net
@@ -215,15 +232,19 @@
 0.0.0.0 pornfidelity.com
 0.0.0.0 pornfidelityhd.com
 0.0.0.0 pornpros.com
+0.0.0.0 pornhd.net
+0.0.0.0 pornhub.tv
 0.0.0.0 puretaboo.com
-0.0.0.0 realityjunks.com
+0.0.0.0 realityjunkies.com
+0.0.0.0 realityjunkieshd.com
 0.0.0.0 realitykings.com
 0.0.0.0 realitykingsclips.com
 0.0.0.0 realitykingshd.com
-0.0.0.0 realitykingsnetwork.com
 0.0.0.0 sexyhub.com
 0.0.0.0 sexyhubhd.com
+0.0.0.0 sex.com
 0.0.0.0 teamsexyhub.com
+0.0.0.0 teamskeet.com
 0.0.0.0 teambang.com
 0.0.0.0 teambanghd.com
 0.0.0.0 tnaflix.com
@@ -231,7 +252,6 @@
 0.0.0.0 wickedpictures.com
 0.0.0.0 wickedpicturesclips.com
 0.0.0.0 wickedpictureshd.com
-0.0.0.0 sex.com
 
 
 # Adult Image / Gallery Sites
@@ -255,7 +275,9 @@
 0.0.0.0 porngall.com
 0.0.0.0 porngalleries.com
 0.0.0.0 porngalleryhd.com
+0.0.0.0 pornhdq.com
 0.0.0.0 pornhdimages.com
+0.0.0.0 pornhubpremium.com
 0.0.0.0 pornimages.com
 0.0.0.0 pornimageshd.com
 0.0.0.0 pornolibrary.com
@@ -267,11 +289,9 @@
 0.0.0.0 pornpix.net
 0.0.0.0 pornpixs.com
 0.0.0.0 pornphotoz.com
-0.0.0.0 pornhdimages.com
-0.0.0.0 pornhdq.com
-0.0.0.0 pornhubpremium.com
 0.0.0.0 pornogallery.com
 0.0.0.0 porndex.com
+0.0.0.0 pornpornhub.com
 0.0.0.0 porntography.com
 0.0.0.0 porntubehd.com
 0.0.0.0 pornsitegalleries.com
@@ -294,6 +314,9 @@
 0.0.0.0 xporngalleries.com
 0.0.0.0 xnxximage.com
 0.0.0.0 xvideosgallery.com
+0.0.0.0 xxxgallery.com
+0.0.0.0 xxximages.com
+0.0.0.0 xxxpics.com
 
 
 # Adult Forums / Communities
@@ -365,6 +388,8 @@
 0.0.0.0 adultdatingnetwork.com
 0.0.0.0 adultdatingnetworkhub.com
 0.0.0.0 adultdatingzone.com
+0.0.0.0 adultencounters.com
+0.0.0.0 adulthookup.com
 0.0.0.0 adultfling.com
 0.0.0.0 adultflingsnetwork.com
 0.0.0.0 adultfriendfinder.com
@@ -373,8 +398,6 @@
 0.0.0.0 adultmatchhub.com
 0.0.0.0 adultmeetup.com
 0.0.0.0 adultpersonals.com
-0.0.0.0 adultencounters.com
-0.0.0.0 adulthookup.com
 0.0.0.0 ashleyMadison.com
 0.0.0.0 casualdating.com
 0.0.0.0 casualencounters.com
