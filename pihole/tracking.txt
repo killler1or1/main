@@ -32,82 +32,142 @@
 # by blocking these domains.
 # -----------------------------------------------------------
 
-# Web Tracking
 
-0.0.0.0 google-analytics.com
-0.0.0.0 analytics.google.com
-0.0.0.0 googletagmanager.com
+# Web (additional domains)
+
 0.0.0.0 googlesyndication.com
 0.0.0.0 doubleclick.net
 0.0.0.0 adservice.google.com
-0.0.0.0 scorecardresearch.com
-0.0.0.0 quantserve.com
-0.0.0.0 quantcount.com
-0.0.0.0 hotjar.com
-0.0.0.0 mixpanel.com
-0.0.0.0 segment.io
-0.0.0.0 snowplowanalytics.com
-0.0.0.0 smartlook.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 criteo.com
 0.0.0.0 mathtag.com
-0.0.0.0 krxd.net
-0.0.0.0 tapad.com
-0.0.0.0 tiqcdn.com
-0.0.0.0 optimizely.com
-0.0.0.0 newrelic.com
-0.0.0.0 datadoghq.com
-0.0.0.0 licdn.com
 0.0.0.0 outbrain.com
 0.0.0.0 taboola.com
 0.0.0.0 admob.com
 0.0.0.0 adroll.com
 0.0.0.0 mediaplex.com
 0.0.0.0 yieldmo.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 criteo.com
+0.0.0.0 400.route.to.adtracker.network
+0.0.0.0 tracker.datatrics.com
+0.0.0.0 adtracker.mkjigsaw.com
+0.0.0.0 web-trackers.com
+0.0.0.0 tracker.adotmob.com
+0.0.0.0 tracker.appadhoc.com
+0.0.0.0 tracking.apptrackerlink.com
+0.0.0.0 tracker.databrain.com
+0.0.0.0 tracker.engageclick.com
+0.0.0.0 tracker.fyber.com
+0.0.0.0 tracker.marinsm.com
+0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.nbcuas.com
+0.0.0.0 log.opentracker.net
+0.0.0.0 tracker.personizely.net
+0.0.0.0 pixel.pointmediatracker.com
+0.0.0.0 tracker.samplicio.us
+0.0.0.0 geo-tracker.smadex.com
+0.0.0.0 analytics-tracker.thescore.com
+0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 stats.webleads-tracker.com
+0.0.0.0 webtracker.jp
+0.0.0.0 tracker.winudf.com
+0.0.0.0 adgtracker.com
+0.0.0.0 affiliate.gwmtracker.com
+0.0.0.0 agstracker.com
+0.0.0.0 cpatraffictracker.com
+0.0.0.0 drivotracker.com
+0.0.0.0 gwmtracker.com
+0.0.0.0 onadstracker.com
+0.0.0.0 tracker.bannerflow.com
+0.0.0.0 trackertracker.com
+0.0.0.0 www.adgtracker.com
+0.0.0.0 www.drivotracker.com
+0.0.0.0 www.gwmtracker.com
+0.0.0.0 tracker1.leadiya.com
+0.0.0.0 tracker.leadenhancer.com
+0.0.0.0 tracker.freecharge.in
+0.0.0.0 hypertracker.com
+0.0.0.0 webtracker.apicasystem.com
+0.0.0.0 tm.tradetracker.net
+0.0.0.0 tracker.tradedoubler.com
+0.0.0.0 ext.host-tracker.com
+0.0.0.0 sitetracker.com
+0.0.0.0 www.sitetracker.com
+0.0.0.0 clicktracker.alloymarketing.com
+0.0.0.0 www.hypertracker.com
+0.0.0.0 voluumtracker.com
+0.0.0.0 tradetracker.net
+0.0.0.0 tracker.bt.uol.com.br
+0.0.0.0 tracker.cl1.fidelizador.com
+0.0.0.0 tracker.clicktrade.com
+0.0.0.0 tracker.consumerpackage.net
+0.0.0.0 tracker.coopt.com
+0.0.0.0 tracker.hitmatic.com
+0.0.0.0 tracker.mattel.com
+0.0.0.0 tracker.netklix.com
+0.0.0.0 tracker.remp.impresa.pt
+0.0.0.0 tracker.publico.pt
+0.0.0.0 tracker.cdnbye.com
+0.0.0.0 tracker.metricswave.com
+0.0.0.0 tracker.mmdlv.it
+0.0.0.0 tracker.iws.vc
+0.0.0.0 tracker.kantan-access.com
+0.0.0.0 webtrackerplus.com
+0.0.0.0 adsmartracker.com
+0.0.0.0 pxl-mailtracker.com
+0.0.0.0 realtracker.com
+0.0.0.0 sedotracker.com
+0.0.0.0 statstracker.celebrity-gossip.net
+0.0.0.0 maxtracker.net
+0.0.0.0 www.sedotracker.com
+0.0.0.0 www.sedotracker.de
+0.0.0.0 free.internetspeedtracker.com
+0.0.0.0 plagtracker.fr
+0.0.0.0 viewstracker.com
+0.0.0.0 cdn.usabilitytracker.com
+0.0.0.0 mltracker.com
+0.0.0.0 spinbox.versiontracker.com
+0.0.0.0 spinbox.techtracker.com
+0.0.0.0 te.versiontracker.com
+0.0.0.0 ssl.webtracker.jp
+0.0.0.0 a.t.webtracker.jp
 
-# -------------------------------
-# Mobile Tracking
-# -------------------------------
 
-0.0.0.0 app-measurement.com
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 firebaselogging.googleapis.com
-0.0.0.0 log.tiktokv.com
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 branch.io
-0.0.0.0 adjust.com
-0.0.0.0 kochava.com
-0.0.0.0 appsflyer.com
-0.0.0.0 inmobi.com
-0.0.0.0 unityads.com
-0.0.0.0 applovin.com
-0.0.0.0 ironsource.com
-0.0.0.0 chartboost.com
-0.0.0.0 vungle.com
-0.0.0.0 tapjoy.com
-0.0.0.0 supersonicads.com
+# Mobile (additional domains)
+
 0.0.0.0 facebookmobileads.com
+0.0.0.0 applovin.com
 0.0.0.0 mopub.com
+0.0.0.0 ironSource.com
+0.0.0.0 vungle.com
+0.0.0.0 chartboost.com
 0.0.0.0 flurry.com
+0.0.0.0 appsflyer.com
+0.0.0.0 adjust.com
+0.0.0.0 branch.io
+0.0.0.0 tktracker.aotter.net
+0.0.0.0 ip.itracker360.com
+0.0.0.0 lftracker.leadfeeder.com
+0.0.0.0 tracker.fado.vn
+0.0.0.0 tracker.phunusuckhoe.vn
+0.0.0.0 tracker.phunuvagiadinh.vn
+0.0.0.0 tracker.vneconomy.vn
+0.0.0.0 tracker.ero-advertising.com
+0.0.0.0 tracker.awr.im
+0.0.0.0 tracker.mozo.com.au
+0.0.0.0 tracking.mailtracker.in
+0.0.0.0 affiliate.mlntracker.com
+0.0.0.0 tracker.hitmatic.com
+0.0.0.0 tracker1.leadiya.com
+0.0.0.0 tracker.iws.vc
+0.0.0.0 tracker.kantan-access.com
+0.0.0.0 tracker.mca-analytics.com
+0.0.0.0 tracker.api-advertising.com
 
-# IoT / Telemetry
 
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 events.data.microsoft.com
-0.0.0.0 g.live.com
-0.0.0.0 trace.svc.ui.com
-0.0.0.0 shepherd.avcdn.net
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 device-metrics.amazon.com
-0.0.0.0 logs.roku.com
-0.0.0.0 telemetry.samsungcloudsolution.com
-0.0.0.0 diagnostics.meethue.com
-0.0.0.0 analytics.tplinkcloud.com
+# IoT (additional domains)
+
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 diagnostics.outlook.com
 0.0.0.0 deviceservices.azure.com
 0.0.0.0 iot-amazon.com
@@ -115,8 +175,20 @@
 0.0.0.0 telemetry.adobe.com
 0.0.0.0 logs.crashlytics.com
 0.0.0.0 usage.met.no
+0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
+0.0.0.0 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
+0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
+0.0.0.0 keys.dmtracker.com
+0.0.0.0 dmtracker.com
+0.0.0.0 extended.dmtracker.com
+0.0.0.0 video.dmtracker.com
+0.0.0.0 vs.dmtracker.com
+0.0.0.0 external.dmtracker.com
+0.0.0.0 parking.dmtracker.com
+0.0.0.0 search.dmtracker.com
 
-# Social Media Tracking
+
+# Social Media (additional domains)
 
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
@@ -136,6 +208,7 @@
 0.0.0.0 ads.tiktok.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 snapads.com
+0.0.0.0 adsapi.snapchat.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 snap.licdn.com
@@ -150,7 +223,39 @@
 0.0.0.0 ads.reddit.com
 0.0.0.0 api.snapchat.com
 0.0.0.0 analytics.snapchat.com
-0.0.0.0 pinterest.com
-0.0.0.0 reddit.com
-0.0.0.0 linkedin.com
-0.0.0.0 snapchat.com
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.engageclick.com
+0.0.0.0 tracker.gtarcade.com
+0.0.0.0 tracker.leadenhancer.com
+0.0.0.0 tracker.baudu.com
+0.0.0.0 tracker.coopt.com
+0.0.0.0 tracker.mattel.com
+0.0.0.0 tracker.truehits.net
+0.0.0.0 tracker.awr.im
+
+
+# Adult/Porn
+
+0.0.0.0 sextracker.com
+0.0.0.0 the.sextracker.com
+0.0.0.0 adserver.sextracker.com
+0.0.0.0 banners.sextracker.com
+0.0.0.0 counter*.sextracker.com
+0.0.0.0 clit*.sextracker.com
+0.0.0.0 elite.sextracker.com
+0.0.0.0 graphics*.sextracker.com
+0.0.0.0 hosting.sextracker.com
+0.0.0.0 links.sextracker.com
+0.0.0.0 mau.sextracker.com
+0.0.0.0 moneytree.sextracker.com
+0.0.0.0 ranks.sextracker.com
+0.0.0.0 search.sextracker.com
+0.0.0.0 start.sextracker.com
+0.0.0.0 stats.sextracker.com
+0.0.0.0 stx*.sextracker.com
+0.0.0.0 stxbans.sextracker.com
+0.0.0.0 webmasters.sextracker.com
+0.0.0.0 stx.banners.sextracker.com
+0.0.0.0 wm.banners.sextracker.com
+0.0.0.0 www.sextracker.com
