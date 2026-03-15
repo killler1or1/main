@@ -25,7 +25,8 @@ The repository is organized into **independent subprojects**.
 ├─ pihole/
 │  ├─ ads.txt
 │  ├─ tracking.txt
-│  └─ malware.txt
+│  ├─ porn.txt
+│  └─ adult-subscription-platforms.txt
 │
 └─ other-projects/
 ```
