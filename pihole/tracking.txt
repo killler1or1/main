@@ -14,7 +14,7 @@
 # - After updating, Pi-hole will apply changes during its
 #   next gravity update.
 #
-# Last updated: 15.03.2026
+# Last updated: 16.03.2026
 # -----------------------------------------------------------
 # DISCLAIMER:
 # The domains contained in this blocklist originate from
@@ -130,7 +130,15 @@
 0.0.0.0 te.versiontracker.com
 0.0.0.0 ssl.webtracker.jp
 0.0.0.0 a.t.webtracker.jp
-
+0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 braze.com
+0.0.0.0 braze.eu
+0.0.0.0 appboy.com
+0.0.0.0 px.vtrtl.de
+0.0.0.0 px1.vtrtl.de
+0.0.0.0 px2.vtrtl.de
+0.0.0.0 track.vtrtl.de
+0.0.0.0 lma.npaw.com
 
 # Mobile (additional domains)
 
@@ -162,6 +170,8 @@
 0.0.0.0 tracker.kantan-access.com
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 tracker.api-advertising.com
+0.0.0.0 app-analytics-services.com
+0.0.0.0 app-measurement.com
 
 
 # IoT (additional domains)
